@@ -2,7 +2,7 @@ def plus (a,b):
     return a+b
 
 text = "new text"
-
+text = "cyka"
 def minus (a,b):
     return a-b
 
